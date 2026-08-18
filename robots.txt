@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vsd5qs.absolutebeachview.co.nz/sitemap.xml
